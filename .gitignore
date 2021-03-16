@@ -1,52 +1,24 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/altium
+# Edit at https://www.toptal.com/developers/gitignore?templates=altium
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### Altium ###
+# Previews Folders
+**/__Previews/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# History Folders
+**/History/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Project Logs
+Project\ Logs*/
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Project Outputs
+Project\ Outputs*/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Auto-conversion notices
+*.PcbDoc.htm
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Access lock file for dbLib sources
+**/*.ldb
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# End of https://www.toptal.com/developers/gitignore/api/altium
