@@ -57,6 +57,40 @@ GenerateClassCluster=0
 DocumentUniqueId=VLWZVUYG
 
 [Document2]
+DocumentPath=CAD\ul_INA138NA250\AltiumDesigner\2021-03-06_10-30-48\2021-03-06_10-30-48.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KADLGYOT
+
+[Document3]
+DocumentPath=CAD\ul_INA138NA250\AltiumDesigner\2021-03-06_10-30-48\2021-03-06_10-30-48.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFTTLGPK
+
+[Document4]
 DocumentPath=CAD\irf9540nspbf\DPAK508P1524X483-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDNXIXMD
 
-[Document3]
+[Document5]
 DocumentPath=CAD\irf9540nspbf\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQCADCJJ
 
-[Document4]
+[Document6]
 DocumentPath=ATMEGA32U4-AU.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPBBYAUG
 
-[Document5]
+[Document7]
 DocumentPath=Library\PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
