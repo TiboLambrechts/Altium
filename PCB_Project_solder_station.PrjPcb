@@ -175,6 +175,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNEIJOJU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project_solder_station\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
